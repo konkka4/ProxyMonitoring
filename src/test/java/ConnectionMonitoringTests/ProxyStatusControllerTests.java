@@ -9,8 +9,7 @@ import java.nio.file.Path;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ProxyStatusControllerTests {
-
+class ProxyStatusControllerTests {
     private Path tempFile;
 
     @BeforeEach
